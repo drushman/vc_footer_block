@@ -1,0 +1,7 @@
+name = Footer block
+description = Display text on footer
+package = "Viet Coop"
+core = 7.x
+dependencies[] = block
+
+
